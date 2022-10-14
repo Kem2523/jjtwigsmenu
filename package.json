@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Kem2523/jjtwigsmenu#readme",
   "dependencies": {
+    "dotenv": "^16.0.3",
     "express": "^4.18.2"
   }
 }
